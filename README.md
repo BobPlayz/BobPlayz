@@ -41,14 +41,14 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Snake
 
-Every square is a day, and the month labels stay on the calendar. Green squares mark days with activity: the cyan snake travels across the dark and green tiles, eats the green ones, and grows as it goes.
+Every square is a day. A neon-pastel cyan snake travels across a midnight-plum calendar, with soft lavender, ice-cyan, mint, and pastel-pink activity tiles. No face, just the animation.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=25" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=26" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
 </p>
 
 <p align="center">
-  <sub>⬛ No activity &nbsp; 🟩 Activity &nbsp; 🟢 More activity</sub>
+  <sub>🌑 Quiet day &nbsp; 💜 Lavender &nbsp; 🩵 Neon cyan &nbsp; 🌿 Mint &nbsp; 🌸 Pastel pink</sub>
 </p>
 
 ## 🛠️ How I like to build
