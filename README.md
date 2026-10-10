@@ -41,20 +41,15 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Trail
 
-**Every square is a day.** Greener squares mean more GitHub activity. The white snake animates across the contribution calendar.
+The snake eats its way across **your actual GitHub contribution calendar**. Each square represents a day, and greener squares mean more activity. The snake is cyan so it stands out against the green tiles.
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/39d353/BobPlayz" alt="Green GitHub contribution calendar for BobPlayz">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Cyan animated snake eating green GitHub contribution tiles">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
+  <sub>🟩 Darker green = less activity &nbsp; · &nbsp; Brighter green = more activity</sub>
 </p>
-
-<p align="center">
-  <sub>🟩 Less activity &nbsp; ▪️ More activity is shown with brighter green tiles</sub>
-</p>
-
 ## 🛠️ How I like to build
 
 I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
