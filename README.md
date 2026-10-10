@@ -10,23 +10,23 @@
 
 ---
 
-## What I'm working on
+## 🛠️ What I'm working on
 
-**[BobAI](https://github.com/BobPlayz/BobAi)**  
+**[🤖 BobAI](https://github.com/BobPlayz/BobAi)**  
 An AI platform I'm building to bring models, memory, tools, files, agents, and APIs together.
 
-**[BobBot](https://github.com/BobPlayz/BobBot)**  
+**[🎮 BobBot](https://github.com/BobPlayz/BobBot)**  
 A Discord bot with games, economy commands, giveaways, and server utilities.
 
 I also experiment with private projects, including a counting bot and a coding-agent system.
 
-## What I like building
+## 💡 What I like building
 
 AI tools and assistants · APIs and backend systems · Discord bots · Automation · Web projects
 
 I'm still learning, so this profile is a snapshot of what I'm exploring, not a claim that I know everything. I like getting things working, finding what breaks, and making the next version cleaner.
 
-## GitHub activity
+## 📊 GitHub activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" alt="GitHub stats for BobPlayz" />
@@ -37,12 +37,12 @@ I'm still learning, so this profile is a snapshot of what I'm exploring, not a c
   <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-### Contribution snake
+### 🐍 Contribution snake
 
 A little animation over my contribution calendar, in neon pastels.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=27" alt="Neon pastel contribution snake animation with a progress bar" />
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=28" alt="Neon pastel contribution snake animation with an animated progress bar" />
 </p>
 
 <p align="center">
@@ -57,4 +57,4 @@ A little animation over my contribution calendar, in neon pastels.
 
 ---
 
-Still learning, still building, and usually finding one more thing to improve.
+✨ Still learning, still building, and usually finding one more thing to improve.
