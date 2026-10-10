@@ -41,10 +41,14 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Snake
 
-Your contribution calendar, with a neon-pastel snake moving across it. The darker squares are quieter days; brighter squares show more activity. The bar underneath is a clean visual progress indicator.
+Your contribution calendar, with a neon-pastel snake moving across it. The bar underneath shows the animation cycle from 0% to 100%.
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=26" alt="Neon pastel animated snake on a GitHub contribution calendar with a clean progress percentage bar">
+</p>
+
+<p align="center">
+  <sub><span style="color:#2b2d42">■</span> Dark plum = no contributions &nbsp; <span style="color:#b8c0ff">■</span> Lavender = low activity &nbsp; <span style="color:#9bf6ff">■</span> Ice cyan = light activity &nbsp; <span style="color:#a0e7e5">■</span> Mint = medium activity &nbsp; <span style="color:#ffc6ff">■</span> Pastel pink = high activity</sub>
 </p>
 
 ## 🛠️ How I like to build
