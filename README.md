@@ -39,17 +39,14 @@ I also have projects that aren't public right now, including a counting bot and 
   <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 </p>
 
-### 🐍 Contribution Trail
+### 🐍 Contribution Snake
 
-The snake eats its way across **your actual GitHub contribution calendar**. Each square represents a day, and greener squares mean more activity. The snake is cyan so it stands out against the green tiles.
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Cyan animated snake eating green GitHub contribution tiles">
-</p>
+The snake eats the green squares for days you're active on GitHub, growing as it goes. Brighter green means more activity.
 
 <p align="center">
-  <sub>🟩 Darker green = less activity &nbsp; · &nbsp; Brighter green = more activity</sub>
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Cyan animated snake eating visible green GitHub contribution tiles">
 </p>
+
 ## 🛠️ How I like to build
 
 I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
