@@ -24,13 +24,11 @@ I also have projects that aren't public right now, including a counting bot and 
 - **Web development:** building interfaces and connecting them to real functionality
 - **Experimenting:** trying an idea, learning from what breaks, and improving it
 
-## 📊 GitHub activity
+## 📟 Currently in the terminal
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg">
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F7FF&vCenter=true&width=650&lines=%3E+building+BobAI...;%3E+experimenting+with+AI+and+agents;%3E+turning+random+ideas+into+projects;%3E+debugging+what+worked+2+seconds+ago;%3E+student+developer+%7C+always+building" alt="Typing animation: building BobAI, experimenting with AI and agents, turning ideas into projects, debugging, and always building">
+</p>
 
 ## 🛠️ How I like to build
 
