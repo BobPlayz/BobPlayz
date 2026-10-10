@@ -44,7 +44,7 @@ I also have projects that aren't public right now, including a counting bot and 
 Every square is a day, and the month labels stay on the calendar. Green squares mark days with activity: the cyan snake travels across the dark and green tiles, eats the green ones, and grows as it goes.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=21" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=25" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
 </p>
 
 <p align="center">
