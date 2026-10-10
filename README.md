@@ -1,4 +1,8 @@
-# yo, I'm BobPlayz 👋
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=yo%2C+I%27m+BobPlayz+%F0%9F%91%8B;Student+Developer;Building+AI%2C+bots+%26+cool+stuff" alt="Typing introduction" />
+
+</div>
 
 I'm a student developer who likes coding, experimenting with AI, and turning random ideas into actual projects. Most of my projects start with "what if I tried this?" and somehow grow into something way bigger than I planned.
 
@@ -27,16 +31,16 @@ I also have projects that aren't public right now, including a counting bot and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats for BobPlayz">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages">
+  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats for BobPlayz">
+  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BobPlayz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobPlayz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Animated GitHub contribution activity graph">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BobPlayz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Animated GitHub contribution activity graph">
 </p>
 
 ## 🛠️ How I like to build
