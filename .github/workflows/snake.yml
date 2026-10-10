@@ -1,0 +1,29 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BobPlayz
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2358a6ff&color_dots=%23161b22%230e4429%23006d32%2326a641%2339d353
+      - name: Publish animation
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          publish_branch: output
+          publish_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
