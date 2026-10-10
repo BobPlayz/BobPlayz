@@ -2,29 +2,27 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1600&color=9BF6FF&center=true&vCenter=true&width=620&lines=yo%2C+I'm+BobPlayz;student+developer;building+AI%2C+bots+%26+random+ideas" alt="Typing introduction" />
 
-<p>
-  <em>I like turning “what if I tried this?” into actual projects.</em>
-</p>
+<p><em>usually I start with a random idea and somehow end up building the whole thing</em> 🫪</p>
 
 </div>
 
 ---
 
-## 🛠️ What I'm working on
+## 🛠️ Stuff I'm working on
 
 **[🤖 BobAI](https://github.com/BobPlayz/BobAi)**  
-An AI platform I'm building to bring models, memory, tools, files, agents, and APIs together.
+My attempt at building an AI platform with models, memory, tools, files, agents, and APIs all in one place. There's a lot left to do, but that's kinda the fun part.
 
 **[🎮 BobBot](https://github.com/BobPlayz/BobBot)**  
-A Discord bot with games, economy commands, giveaways, and server utilities.
+A Discord bot with games, economy commands, giveaways, and server utilities. Basically, a bunch of things I wanted to build and keep adding to.
 
-I also experiment with private projects, including a counting bot and a coding-agent system.
+I mess around with other projects too, including a counting bot and a coding-agent system. Some are private while I'm still working on them.
 
-## 💡 What I like building
+## 💻 Things I mess with
 
-AI tools and assistants · APIs and backend systems · Discord bots · Automation · Web projects
+AI stuff, APIs and backend code, Discord bots, automation, web projects, and whatever random idea grabs my attention next.
 
-I'm still learning, so this profile is a snapshot of what I'm exploring, not a claim that I know everything. I like getting things working, finding what breaks, and making the next version cleaner.
+I'm still learning, so some things will break and some projects will take longer than I expect. I usually just keep poking at them until I understand what's going on and can make them a bit better. 🌱
 
 ## 📊 GitHub activity
 
@@ -37,24 +35,24 @@ I'm still learning, so this profile is a snapshot of what I'm exploring, not a c
   <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-### 🐍 Contribution snake
+### 🐍 The snake thing
 
-A little animation over my contribution calendar, in neon pastels.
+Put a snake on the contribution calendar because, honestly, why not. It's neon pastel because the default look wasn't doing it for me. The bar underneath is just the animation cycle, not my actual contribution percentage. ✨
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=28" alt="Neon pastel contribution snake animation with an animated progress bar" />
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=29" alt="Neon pastel contribution snake animation with an animation-cycle progress bar" />
 </p>
 
 <p align="center">
   <sub>
-    <span style="color:#2b2d42">■</span> Dark plum: no contributions &nbsp;·&nbsp;
-    <span style="color:#b8c0ff">■</span> Lavender: low activity &nbsp;·&nbsp;
-    <span style="color:#9bf6ff">■</span> Ice cyan: light activity &nbsp;·&nbsp;
-    <span style="color:#a0e7e5">■</span> Mint: medium activity &nbsp;·&nbsp;
-    <span style="color:#ffc6ff">■</span> Pastel pink: high activity
+    🟪 No contributions &nbsp;·&nbsp;
+    🟣 Low activity &nbsp;·&nbsp;
+    🩵 Light activity &nbsp;·&nbsp;
+    🟢 Medium activity &nbsp;·&nbsp;
+    🩷 High activity
   </sub>
 </p>
 
 ---
 
-✨ Still learning, still building, and usually finding one more thing to improve.
+🌱 still learning, still building stuff, and probably adding one more feature when I should be fixing the last one
