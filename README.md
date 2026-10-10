@@ -1,75 +1,44 @@
-<div align="center">
+# yo, I'm BobPlayz 👋
 
-<img src="assets/profile-banner.svg" alt="BobPlayz: student developer building AI, bots, and tools" width="100%" />
+I'm a student developer who likes coding, experimenting with AI, and turning random ideas into actual projects. Most of my projects start with "what if I tried this?" and somehow grow into something way bigger than I planned.
 
-### student developer · AI builder · professional scope-creep enjoyer
+I'm especially interested in building useful software, AI assistants, bots, APIs, and the systems that connect everything together. I like figuring out how things work, testing ideas, and improving projects as I learn.
 
-I get an idea, start coding, and somehow the project has 40 more features than planned.
-
-[![GitHub](https://img.shields.io/badge/GitHub-BobPlayz-111827?style=flat-square&logo=github)](https://github.com/BobPlayz)
-[![Main project](https://img.shields.io/badge/Building-BobAI-0891b2?style=flat-square&logo=probot&logoColor=white)](https://github.com/BobPlayz/BobAi)
-
-</div>
-
----
-
-## 01 / Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 What I'm building
 
 ### 🤖 [BobAI](https://github.com/BobPlayz/BobAi)
-
-My main project: an AI platform bringing together model providers, memory, tools, file understanding, agents, automations, and APIs.
-
-**The goal:** an assistant that can do more than just chat.
-
-</td>
-<td width="50%" valign="top">
+My main AI project. The idea is to bring different AI capabilities together in one platform, including model providers, memory, tools, file understanding, agents, automations, and APIs. I'm interested in making AI useful beyond just sending messages in a chat box.
 
 ### 🎮 [BobBot](https://github.com/BobPlayz/BobBot)
+A Discord bot with features like economy commands, games, giveaways, and server utilities. It's one of my projects for exploring bot development and building features that people can actually use.
 
-A Discord bot with economy commands, games, giveaways, and server utilities.
+### 🔒 Other projects
+I also have projects that aren't public right now, including a counting bot and a coding-agent system. They're still part of the stuff I'm experimenting with, but their repositories are private.
 
-A place to build features people can actually use and experiment with bot development.
+## 🧠 Things I'm interested in
 
-</td>
-</tr>
-</table>
+- **AI & LLMs:** model providers, assistant capabilities, memory, and tool use
+- **Coding agents:** systems that can work with tasks, tools, and project workspaces
+- **Backend development:** APIs, databases, services, and how all the pieces communicate
+- **Bots & automation:** useful commands, integrations, and reducing repetitive work
+- **Web development:** building interfaces and connecting them to real functionality
+- **Experimenting:** trying an idea, learning from what breaks, and improving it
 
-I also build other things, including a counting bot and a coding-agent system. Those repos are private for now.
+## 🛠️ How I like to build
 
-## 02 / Things I’m into
+I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
 
-| | Area | What interests me |
-|:--:|:--|:--|
-| 🧠 | **AI & LLMs** | Models, memory, tools, and assistant capabilities |
-| 🧩 | **Coding agents** | Agents, orchestration, and workspace tools |
-| ⚙️ | **Backend** | APIs, databases, services, and integrations |
-| 🤖 | **Bots & automation** | Useful commands and fewer repetitive tasks |
-| 🌐 | **Web development** | Interfaces connected to real functionality |
+I'm still learning, so I'm not going to pretend I know every technology or fill this page with badges just to make it look impressive. I'd rather keep building and let the projects show what I'm learning.
 
-## 03 / Current side quests
+## 🌱 Currently focused on
 
-- Building out BobAI and experimenting with new capabilities
-- Improving my bots and trying new ideas
+- Developing BobAI and exploring more assistant capabilities
+- Improving my bots and experimenting with new features
 - Learning more about APIs, backend systems, and AI tooling
-- Figuring out how to make big projects less chaotic
+- Turning more of my ideas into working projects
 
-## 04 / My build philosophy
+## 📌 Explore my projects
 
-- **Learn by building.** I understand things better when I actually make them.
-- **Experiment freely.** Try the idea, find the limits, then improve it.
-- **Debug instead of bluffing.** Broken things are usually clues.
-- **No fake expertise.** I'm learning as I go, so I'd rather show real projects than decorate this page with a hundred skill badges.
+Take a look through my public repositories if something here sounds interesting. Each project has its own README with more detail, and I'll keep adding and improving things as I go.
 
----
-
-<div align="center">
-
-**still learning · still building · still adding features**
-
-<sub>Explore the repos and see what I'm working on.</sub>
-
-</div>
+**Still learning, still building, and almost definitely adding one more feature than I originally planned.**
