@@ -41,10 +41,14 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Snake
 
-The snake eats the green squares for days you're active on GitHub, growing as it goes. Brighter green means more activity.
+Every square is a day, and the month labels stay on the calendar. Green squares mark days with activity: the cyan snake travels across the dark and green tiles, eats the green ones, and grows as it goes.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Cyan animated snake eating visible green GitHub contribution tiles">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
+</p>
+
+<p align="center">
+  <sub>⬛ No activity &nbsp; 🟩 Activity &nbsp; 🟢 More activity</sub>
 </p>
 
 ## 🛠️ How I like to build
