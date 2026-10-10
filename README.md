@@ -31,16 +31,16 @@ I also have projects that aren't public right now, including a counting bot and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats for BobPlayz">
-  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages">
+  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" alt="GitHub stats for BobPlayz">
+  <img width="49%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages">
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BobPlayz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Animated GitHub contribution activity graph">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
 </p>
 
 ## 🛠️ How I like to build
