@@ -40,7 +40,7 @@ I'm still learning. Sometimes stuff works first try, sometimes I spend ages figu
 Put a snake on the contribution calendar because why not. Made it neon pastel because the default look wasn't really my thing. The bar underneath shows the animation cycle, not my actual contribution percentage. ✨
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=30" alt="Neon pastel contribution snake animation with an animation-cycle progress bar" />
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=31" alt="Neon pastel contribution snake animation with an animation-cycle progress bar" />
 </p>
 
 <p align="center">
@@ -52,6 +52,12 @@ Put a snake on the contribution calendar because why not. Made it neon pastel be
     <span style="color:#ffc6ff">■</span> High activity
   </sub>
 </p>
+
+---
+
+## 🧩 Anyway, that's pretty much it
+
+I'm just here to build stuff, break stuff, fix it, and learn along the way. Some projects might go nowhere, some might turn into something cool. We'll see. If you're checking out my profile, feel free to look through the repos and see what I'm working on. 🫪
 
 ---
 
