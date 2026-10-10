@@ -21,16 +21,9 @@ jobs:
           github_user_name: BobPlayz
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300e5ff&color_dots=%23454d56%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353
-      - name: Add a face to the snake head
+      - name: Add snake face and calendar labels
         run: |
-          node <<'NODE'
-          const fs = require('fs');
-          const file = 'dist/github-contribution-grid-snake.svg';
-          let svg = fs.readFileSync(file, 'utf8');
-          const face = '<g class="s s3" fill="#0d1117"><circle cx="4.5" cy="5" r="1.5"/><circle cx="10" cy="5" r="1.5"/><path d="M4.5 9 Q7.2 12 10 9" fill="none" stroke="#0d1117" stroke-width="1.2" stroke-linecap="round"/></g>';
-          svg = svg.replace('</svg>', face + '</svg>');
-          fs.writeFileSync(file, svg);
-          NODE
+          node -e 'const fs=require("fs"); const p="dist/github-contribution-grid-snake.svg"; let s=fs.readFileSync(p,"utf8"); const overlay="<g font-family=\"Arial, sans-serif\" font-size=\"10\" fill=\"#c9d1d9\"><text x=\"0\" y=\"-12\">Aug</text><text x=\"96\" y=\"-12\">Sep</text><text x=\"192\" y=\"-12\">Oct</text><text x=\"288\" y=\"-12\">Nov</text><text x=\"384\" y=\"-12\">Dec</text><text x=\"480\" y=\"-12\">Jan</text><text x=\"576\" y=\"-12\">Feb</text><text x=\"672\" y=\"-12\">Mar</text><text x=\"768\" y=\"-12\">Apr</text></g><g class=\"s s0\" fill=\"#0d1117\"><circle cx=\"4.5\" cy=\"5\" r=\"1.5\"/><circle cx=\"10\" cy=\"5\" r=\"1.5\"/><path d=\"M4.5 9 Q7.2 12 10 9\" fill=\"none\" stroke=\"#0d1117\" stroke-width=\"1.2\" stroke-linecap=\"round\"/></g>"; s=s.replace("</svg>",overlay+"</svg>"); fs.writeFileSync(p,s);'
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
         with:
