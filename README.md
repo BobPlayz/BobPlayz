@@ -41,14 +41,10 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Snake
 
-Every square is a day. A neon-pastel cyan snake travels across a midnight-plum calendar, with soft lavender, ice-cyan, mint, and pastel-pink activity tiles. No face, just the animation.
+Your contribution calendar, with a neon-pastel snake moving across it. The darker squares are quieter days; brighter squares show more activity. The bar underneath is a clean visual progress indicator.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=26" alt="Cyan animated snake eating green GitHub contribution tiles on the contribution calendar">
-</p>
-
-<p align="center">
-  <sub>🌑 Quiet day &nbsp; 💜 Lavender &nbsp; 🩵 Neon cyan &nbsp; 🌿 Mint &nbsp; 🌸 Pastel pink</sub>
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg?v=26" alt="Neon pastel animated snake on a GitHub contribution calendar with a clean progress percentage bar">
 </p>
 
 ## 🛠️ How I like to build
