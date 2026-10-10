@@ -1,19 +1,19 @@
 <div align="center">
 
-# hey, I'm BobPlayz 👋
+<img src="assets/profile-banner.svg" alt="BobPlayz: student developer building AI, bots, and tools" width="100%" />
 
 ### student developer · AI builder · professional scope-creep enjoyer
 
-I build things because I get an idea, start coding, and suddenly the project has 40 more features than planned.
+I get an idea, start coding, and somehow the project has 40 more features than planned.
 
-[![GitHub](https://img.shields.io/badge/GitHub-BobPlayz-181717?style=for-the-badge&logo=github)](https://github.com/BobPlayz)
-[![Main Project](https://img.shields.io/badge/Building-BobAI-06B6D4?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/BobPlayz/BobAi)
+[![GitHub](https://img.shields.io/badge/GitHub-BobPlayz-111827?style=flat-square&logo=github)](https://github.com/BobPlayz)
+[![Main project](https://img.shields.io/badge/Building-BobAI-0891b2?style=flat-square&logo=probot&logoColor=white)](https://github.com/BobPlayz/BobAi)
 
 </div>
 
 ---
 
-## 01 / What I'm building
+## 01 / Projects
 
 <table>
 <tr>
@@ -21,70 +21,55 @@ I build things because I get an idea, start coding, and suddenly the project has
 
 ### 🤖 [BobAI](https://github.com/BobPlayz/BobAi)
 
-**An AI platform I'm building.**
+My main project: an AI platform bringing together model providers, memory, tools, file understanding, agents, automations, and APIs.
 
-Models, memory, tools, file understanding, agents, automations, and APIs. The goal is to make an assistant do more than just sit there and chat.
-
-**Status:** actively evolving
+**The goal:** an assistant that can do more than just chat.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 [BobBot](https://github.com/BobPlayz/BobBot)
 
-**A Discord bot with actual features.**
+A Discord bot with economy commands, games, giveaways, and server utilities.
 
-Economy commands, games, giveaways, and server utilities. A place for me to experiment with bots and features people can use.
-
-**Status:** ongoing project
+A place to build features people can actually use and experiment with bot development.
 
 </td>
 </tr>
 </table>
 
-I also have a counting bot and a coding-agent system that are private for now.
+I also build other things, including a counting bot and a coding-agent system. Those repos are private for now.
 
-## 02 / What I like working on
+## 02 / Things I’m into
 
-| Area | The interesting part |
-|:--|:--|
-| 🧠 AI & LLMs | Models, memory, tools, and assistant capabilities |
-| 🧩 Coding agents | Agents, orchestration, and workspace tools |
-| ⚙️ Backend | APIs, databases, services, and integrations |
-| 🤖 Bots & automation | Useful commands and fewer repetitive tasks |
-| 🌐 Web development | Interfaces connected to real functionality |
+| | Area | What interests me |
+|:--:|:--|:--|
+| 🧠 | **AI & LLMs** | Models, memory, tools, and assistant capabilities |
+| 🧩 | **Coding agents** | Agents, orchestration, and workspace tools |
+| ⚙️ | **Backend** | APIs, databases, services, and integrations |
+| 🤖 | **Bots & automation** | Useful commands and fewer repetitive tasks |
+| 🌐 | **Web development** | Interfaces connected to real functionality |
 
-## 03 / GitHub stats
+## 03 / Current side quests
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used public repository languages" />
-
-</div>
-
-<sub>Stats cards use a third-party service and may occasionally be unavailable. Language stats reflect public repositories, not everything I code.</sub>
-
-## 04 / How I work
-
-- **Build first, learn along the way.** I like figuring things out by making real projects.
-- **Follow the idea.** A small feature can turn into a much bigger system, and I'm learning how to manage that.
-- **Debug, rethink, improve.** If something breaks, it's another thing to understand.
-- **No fake expertise.** I'm still learning, and I'd rather show real projects than cover this page in skill badges.
-
-## 05 / Currently
-
-- Developing BobAI and exploring more AI capabilities
+- Building out BobAI and experimenting with new capabilities
 - Improving my bots and trying new ideas
-- Learning more about backend systems, APIs, and AI tooling
-- Probably adding another feature to something that was already supposed to be finished
+- Learning more about APIs, backend systems, and AI tooling
+- Figuring out how to make big projects less chaotic
+
+## 04 / My build philosophy
+
+- **Learn by building.** I understand things better when I actually make them.
+- **Experiment freely.** Try the idea, find the limits, then improve it.
+- **Debug instead of bluffing.** Broken things are usually clues.
+- **No fake expertise.** I'm learning as I go, so I'd rather show real projects than decorate this page with a hundred skill badges.
 
 ---
 
 <div align="center">
 
-**still learning. still building. still adding features.**
+**still learning · still building · still adding features**
 
-<sub>Have a look around the repos 👇</sub>
+<sub>Explore the repos and see what I'm working on.</sub>
 
 </div>
