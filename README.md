@@ -41,6 +41,9 @@ I also have projects that aren't public right now, including a counting bot and 
   <img src="https://streak-stats.demolab.com?user=BobPlayz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobPlayz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Animated GitHub contribution activity graph">
+</p>
 ## 🛠️ How I like to build
 
 I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
