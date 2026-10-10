@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=yo%2C+I%27m+BobPlayz+%F0%9F%91%8B;Student+Developer;Building+AI%2C+bots+%26+cool+stuff" alt="Typing introduction" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:00D9FF,50:9D7BFF,100:7AA2F7" width="100%" alt="Blue purple gradient accent" />
-
-</div>
+# yo, I'm BobPlayz 👋
 
 I'm a student developer who likes coding, experimenting with AI, and turning random ideas into actual projects. Most of my projects start with "what if I tried this?" and somehow grow into something way bigger than I planned.
 
@@ -44,6 +38,7 @@ I also have projects that aren't public right now, including a counting bot and 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BobPlayz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Animated GitHub contribution activity graph">
 </p>
+
 ## 🛠️ How I like to build
 
 I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
