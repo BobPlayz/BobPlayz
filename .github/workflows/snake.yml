@@ -21,19 +21,25 @@ jobs:
           github_user_name: BobPlayz
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300e5ff&color_dots=%23454d56%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353
-      - name: Add visible calendar labels and animated face
+      - name: Add face and month labels
+        shell: bash
         run: |
-          chmod u+w dist/github-contribution-grid-snake.svg
           node <<'NODE'
           const fs = require('fs');
-          const file = 'dist/github-contribution-grid-snake.svg';
-          let svg = fs.readFileSync(file, 'utf8');
+          const path = 'dist/github-contribution-grid-snake.svg';
+          let svg = fs.readFileSync(path, 'utf8');
 
+          // Labels sit inside the SVG viewBox, above the calendar squares.
           const labels = '<g font-family="Arial, sans-serif" font-size="11" font-weight="600" fill="#c9d1d9"><text x="0" y="-12">Aug</text><text x="96" y="-12">Sep</text><text x="192" y="-12">Oct</text><text x="288" y="-12">Nov</text><text x="384" y="-12">Dec</text><text x="480" y="-12">Jan</text><text x="576" y="-12">Feb</text><text x="672" y="-12">Mar</text><text x="768" y="-12">Apr</text></g>';
-          const face = '<g class="s s0" fill="#06232a" stroke="#06232a" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.8" cy="5" r="1.5"/><circle cx="10.5" cy="5" r="1.5"/><path d="M4.2 9 Q7.5 12.5 11 9" fill="none" stroke="#06232a" stroke-width="1.3"/></g>';
-
+          // The face shares the head's animation class so it moves with the head.
+          const face = '<g class="s s0" fill="#06232a" stroke="#06232a" stroke-linecap="round" stroke-linejoin="round"><circle cx="4.5" cy="5" r="1.5"/><circle cx="10" cy="5" r="1.5"/><path d="M4 9 Q7.2 12 10.5 9" fill="none" stroke="#06232a" stroke-width="1.3"/></g>';
           svg = svg.replace('</svg>', labels + face + '</svg>');
-          fs.writeFileSync(file, svg);
+
+          // The generator's container owns its output file. Write a new file,
+          // then replace the old one via the runner-owned directory.
+          const temp = path + '.tmp';
+          fs.writeFileSync(temp, svg);
+          fs.renameSync(temp, path);
           NODE
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
