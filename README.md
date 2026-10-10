@@ -24,10 +24,15 @@ I also have projects that aren't public right now, including a counting bot and 
 - **Web development:** building interfaces and connecting them to real functionality
 - **Experimenting:** trying an idea, learning from what breaks, and improving it
 
-## 📟 Currently in the terminal
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00F7FF&vCenter=true&width=650&lines=%3E+building+BobAI...;%3E+experimenting+with+AI+and+agents;%3E+turning+random+ideas+into+projects;%3E+debugging+what+worked+2+seconds+ago;%3E+student+developer+%7C+always+building" alt="Typing animation: building BobAI, experimenting with AI and agents, turning ideas into projects, debugging, and always building">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BobPlayz&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub stats for BobPlayz">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobPlayz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BobPlayz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 ## 🛠️ How I like to build
