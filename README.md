@@ -24,6 +24,14 @@ I also have projects that aren't public right now, including a counting bot and 
 - **Web development:** building interfaces and connecting them to real functionality
 - **Experimenting:** trying an idea, learning from what breaks, and improving it
 
+## 📊 GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 ## 🛠️ How I like to build
 
 I prefer learning by actually making things. Sometimes that means starting with a small feature and then discovering all the extra pieces needed to make it work properly. I enjoy the problem-solving side of development: planning how components fit together, debugging weird issues, and finding a cleaner way to do something.
