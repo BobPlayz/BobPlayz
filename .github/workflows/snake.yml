@@ -32,24 +32,27 @@ jobs:
           let svg = fs.readFileSync(path, 'utf8');
 
           // Give weekday labels real breathing room to the left of the calendar.
-          svg = svg.replace('viewBox="-16 -32 880 192"', 'viewBox="-48 -32 912 192"');
+          svg = svg.replace('viewBox="-16 -32 880 192"', 'viewBox="-52 -32 916 192"');
 
           // Replace the generator's segmented loading strip with one unified,
           // animated pastel progress bar and a matching percentage readout.
           const meter = '<g class="progress-meter" font-family="Arial, sans-serif" fill="#e8e7ff">' +
-            '<text x="0" y="127" font-size="10" font-weight="600" letter-spacing="1">SNAKE PROGRESS</text>' +
-            '<text x="834" y="127" text-anchor="end" font-size="11" font-weight="700">100%</text>' +
+            '<text x="0" y="127" font-size="10" font-weight="600" letter-spacing="1">SNAKE ANIMATION</text>' +
+            '<text x="834" y="127" text-anchor="end" font-size="11" font-weight="700"><tspan class="percent">0%</tspan></text>' +
             '<rect x="0" y="136" width="834" height="10" rx="5" fill="#2b2d42"/>' +
-            '<rect x="0" y="136" width="834" height="10" rx="5" fill="url(#pastelProgress)"/>' +
+            '<rect x="0" y="136" width="834" height="10" rx="5" fill="url(#pastelProgress)" width="0">' +
+            '<animate attributeName="width" from="0" to="834" dur="18.5s" repeatCount="indefinite"/>' +
+            '</rect>' +
+            '<animate id="percentTick" attributeName="opacity" values="1;1" dur="18.5s" repeatCount="indefinite"/>' +
             '</g>';
 
           svg = svg.replace(/<rect class="u u0"[^>]*\/><rect class="u u1"[^>]*\/><rect class="u u2"[^>]*\/><rect class="u u3"[^>]*\/>/, meter);
 
           const labels = '<g font-family="Arial, sans-serif" font-size="10" font-weight="600" fill="#e8e7ff">' +
-            '<text x="0" y="-12">Aug</text><text x="96" y="-12">Sep</text><text x="192" y="-12">Oct</text>' +
-            '<text x="288" y="-12">Nov</text><text x="384" y="-12">Dec</text><text x="480" y="-12">Jan</text>' +
-            '<text x="576" y="-12">Feb</text><text x="672" y="-12">Mar</text><text x="768" y="-12">Apr</text>' +
-            '<text x="-44" y="14">Mon</text><text x="-44" y="46">Wed</text><text x="-44" y="78">Fri</text></g>';
+            '<text x="2" y="-12">Aug</text><text x="98" y="-12">Sep</text><text x="194" y="-12">Oct</text>' +
+            '<text x="290" y="-12">Nov</text><text x="386" y="-12">Dec</text><text x="482" y="-12">Jan</text>' +
+            '<text x="578" y="-12">Feb</text><text x="674" y="-12">Mar</text><text x="770" y="-12">Apr</text>' +
+            '<text x="-50" y="10">Mon</text><text x="-50" y="42">Wed</text><text x="-50" y="74">Fri</text></g>';
           const defs = '<defs><linearGradient id="pastelProgress" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#9bf6ff"/><stop offset="100%" stop-color="#b8c0ff"/></linearGradient></defs>';
           svg = svg.replace('</svg>', defs + labels + '</svg>');
           fs.writeFileSync(path, svg);
