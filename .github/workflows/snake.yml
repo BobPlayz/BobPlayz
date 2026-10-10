@@ -21,6 +21,16 @@ jobs:
           github_user_name: BobPlayz
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%2300e5ff&color_dots=%23454d56%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353
+      - name: Add a face to the snake head
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const file = 'dist/github-contribution-grid-snake.svg';
+          let svg = fs.readFileSync(file, 'utf8');
+          const face = '<g class="s s3" fill="#0d1117"><circle cx="4.5" cy="5" r="1.5"/><circle cx="10" cy="5" r="1.5"/><path d="M4.5 9 Q7.2 12 10 9" fill="none" stroke="#0d1117" stroke-width="1.2" stroke-linecap="round"/></g>';
+          svg = svg.replace('</svg>', face + '</svg>');
+          fs.writeFileSync(file, svg);
+          NODE
       - name: Publish animation
         uses: peaceiris/actions-gh-pages@v4
         with:
