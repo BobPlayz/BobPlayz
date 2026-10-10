@@ -41,10 +41,18 @@ I also have projects that aren't public right now, including a counting bot and 
 
 ### 🐍 Contribution Trail
 
-A little snake, a lot of commits. The green tiles show contribution activity, and the bright snake is easier to spot against the dark background.
+**Every square is a day.** Greener squares mean more GitHub activity. The white snake animates across the contribution calendar.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake moving across green contribution tiles">
+  <img width="100%" src="https://ghchart.rshah.org/39d353/BobPlayz" alt="Green GitHub contribution calendar for BobPlayz">
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
+</p>
+
+<p align="center">
+  <sub>🟩 Less activity &nbsp; ▪️ More activity is shown with brighter green tiles</sub>
 </p>
 
 ## 🛠️ How I like to build
