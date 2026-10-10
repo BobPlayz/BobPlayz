@@ -39,8 +39,12 @@ I also have projects that aren't public right now, including a counting bot and 
   <img width="70%" src="https://streak-stats.demolab.com/?user=BobPlayz&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak">
 </p>
 
+### 🐍 Contribution Trail
+
+A little snake, a lot of commits. The green tiles show contribution activity, and the bright snake is easier to spot against the dark background.
+
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
+  <img width="100%" src="https://raw.githubusercontent.com/BobPlayz/BobPlayz/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake moving across green contribution tiles">
 </p>
 
 ## 🛠️ How I like to build
